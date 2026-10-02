@@ -3,5 +3,5 @@ Public repo for the first assignment. Includes DDM model code and dataset
 
 Required modules:
 Numpy
-PyDMM (version 0.9.0)
+PyDDM (version 0.9.0)
 pandas
